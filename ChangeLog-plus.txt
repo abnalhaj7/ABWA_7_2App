@@ -1,15 +1,1 @@
-{"version_code":452812,"content":"
-<p>تحديث</p>
-
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
-
-","url":"https://abnalhaj77.blogspot.com/2019/12/abwa.html"
-}
+{'ver1':'7', 'ver2':'30', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'http://abnalhaj77.blogspot.com/'}
